@@ -8,3 +8,5 @@ Mid-Range Only – Sensitive Version description Detects order blocks and enters
 #property version   "2.01"
 #property description "Detects order blocks and enters on retest + rejection"
 #property description "FIXED: partial close for small lots, safe bar check"
+
+FOR MORE ANY KIND OF BOT OR AUTOMATION TOOLS CONTACT ME 
